@@ -5,7 +5,7 @@ Public Tableau Workbook: https://public.tableau.com/views/Sprint4Project-Superst
 ## Project Description
 
 ### Introduction  
-This team project was completed as part of the **TripleTen Business Intelligence Analyst program**. The objective was to analyze sales, profit, and return patterns from a fictional superstore dataset in order to identify high- and low-performing products, subcategories, regions, and customer behavior.
+This project was completed as part of the **TripleTen Business Intelligence Analyst program**. The objective was to analyze sales, profit, and return patterns from a fictional superstore dataset in order to identify high- and low-performing products, subcategories, regions, and customer behavior.
 
 ## What Was Done
 
