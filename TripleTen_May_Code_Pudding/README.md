@@ -1,4 +1,4 @@
-Public Tableau Workbook: https://public.tableau.com/app/profile/brandon.lopez1903/viz/Top_50_Exercises/SummaryReport#1
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brandon.lopez1903/viz/Top_50_Exercises/SummaryReport#1)
 
 # Top 50 Exercises: Calorie Burn and Movement Insights
 
