@@ -1,4 +1,4 @@
-Public Tableau Workbook: https://public.tableau.com/app/profile/brandon.lopez1903/viz/Sprint_5_Project_17487135726030/ReturnRateStory#2
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brandon.lopez1903/viz/Sprint_5_Project_17487135726030/ReturnRateStory#2)
 
 # What Is Causing Returns?
 
