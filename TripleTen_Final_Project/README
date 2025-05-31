@@ -5,7 +5,7 @@ Public Tableau Workbook: https://public.tableau.com/app/profile/brandon.lopez190
 ## Project Description
 
 ### Introduction  
-This project analyzes fake company; Zomato's historical order data to evaluate sales trends, customer purchasing behavior, and average order value (AOV). The objective is to uncover patterns in business performance and provide actionable insights to improve revenue and customer engagement.
+This project was completed as part of the **TripleTen Business Intelligence Analyst program**. It aims to analyze fake company; Zomato's historical order data to evaluate sales trends, customer purchasing behavior, and average order value (AOV). The objective is to uncover patterns in business performance and provide actionable insights to improve revenue and customer engagement.
 
 ### Methodology  
 - Focused solely on the "Orders" dataset to maintain a clear sales-based scope.  
