@@ -1,4 +1,4 @@
-[View Interactive Tableau Dashboard]([https://public.tableau.com/app/profile/yourname/viz/YourDashboardLinkHere](https://public.tableau.com/app/profile/brandon.lopez1903/viz/FinalProjectZomatoSalesAnalysis/MonthlySalesTrend#2 )
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/brandon.lopez1903/viz/FinalProjectZomatoSalesAnalysis/MonthlySalesTrend#2)
 
 
 # Zomato Sales Analysis
