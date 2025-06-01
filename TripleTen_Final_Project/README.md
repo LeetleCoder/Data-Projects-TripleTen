@@ -24,7 +24,6 @@ Visualizations include:
 - Monthly Sales Trend  
 - Monthly Order Volume  
 - AOV Distribution  
-*(Screenshots located in the `/images` folder)*
 
 ### Conclusion  
 Zomato generated ~$986.6 million in revenue from ~148,000 orders between 2017 and 2022. Performance peaked in 2018 but declined as external factors, like the pandemic, impacted order volume. AOV consistency suggests strong customer value per transaction.
